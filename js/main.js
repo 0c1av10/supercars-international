@@ -129,7 +129,7 @@ const CARS = [
     brand: 'Toyota', model: 'RAV4 2.0L 4WD — Luxury',
     tags: 'suv rav4', year: 2026,
     spec: 'SUV · 2.0L · 4WD · Luxury Version',
-    price: 'US$ 25.500',
+    price: 'US$ 28.600',
     img: 'assets/vehicles/rav4-front-34.jpg',
     url: 'rav4-luxury-2026.html'
   },
@@ -145,7 +145,7 @@ const CARS = [
     brand: 'Toyota', model: 'RAV4 2.0L 4WD — Luxury',
     tags: 'suv rav4', year: 2025,
     spec: 'SUV · 2.0L · 4WD · Luxury Version',
-    price: 'US$ 25.500',
+    price: 'US$ 28.600',
     img: 'assets/vehicles/rav4-front.jpg',
     url: 'rav4-luxury-2025.html'
   },
